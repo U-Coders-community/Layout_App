@@ -26,7 +26,7 @@ yarn pods
 ##### 6. Generate APK
 command:
 yarn generate-apk
-######(cd android && ./gradlew assembleRelease && open ./app/build/outputs/apk/)
+######(cd android && ./gradlew assembleRelease && open ./app/build/outputs/apk/) 
 ##### 7. Start IOS
 command:
 yarn ios
