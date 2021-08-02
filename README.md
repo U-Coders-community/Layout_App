@@ -6,11 +6,11 @@ Settings
 ##### 1. Add Theme
 command: 
 yarn add_theme
--(yarn add @shopify/restyle)
+ - (yarn add @shopify/restyle)
 ##### 2. Add Store
 command:
 yarn add_store
--(yarn add redux && yarn add @types/react-redux && yarn add redux-devtools-extension && npm install react-redux --save)
+ - (yarn add redux && yarn add @types/react-redux && yarn add redux-devtools-extension && npm install react-redux --save)
 ##### 3. Add Svg
 command:
 yarn add_svg
